@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e137ec5-390b-4893-a33f-3924402e11b5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2SHqIbgtaN9Zj3FZfTO0ThNmYl6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "D:/Users/user/Downloads/gain/Groovin (2)/Groovin/Groovin/assets/img/team",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\user\Downloads\gain\Groovin (2)\Groovin\Groovin\assets\img\team" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\user\Downloads\gain\Groovin (2)\Groovin\Groovin\assets\img" />
+      <recent name="D:\Users\user\Downloads\gain\Groovin (2)\Groovin\Groovin\assets\img\clients" />
+      <recent name="D:\Users\user\Downloads\gain\Groovin (2)\Groovin\Groovin\assets\img\team" />
+      <recent name="D:\Users\user\Downloads\gain\Groovin (2)\Groovin\Groovin\assets\img\portfolio" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e137ec5-390b-4893-a33f-3924402e11b5" name="Changes" comment="" />
+      <created>1688813789267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688813789267</updated>
+      <workItem from="1688813791847" duration="124000" />
+      <workItem from="1688814088921" duration="40000" />
+      <workItem from="1711869783849" duration="6095000" />
+      <workItem from="1712060186743" duration="18211000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
